@@ -1,3 +1,6 @@
 ML algorithm for predicting wine quality using
 
-- nump
+- numpy
+- pandas
+- sklearn
+- (umass.edu red wine quality dataset)
